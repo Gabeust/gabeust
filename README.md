@@ -33,15 +33,11 @@ Apasionado por construir soluciones robustas, seguras y escalables.
 
 ## 🚀 Proyectos Destacados
 
-### 🔐 API de Gestión de Usuarios
-Backend seguro con autenticación moderna, JWT, roles, OAuth 2.0 y persistencia con JPA + MySQL.  
-> 🔗 [Repositorio](https://github.com/gabeust/Securutyapp)
 
----
+### 💬 ForoHub
+Aplicación  para foros y comunidades. Backend Java con JWT, roles, OAuth, notificaciones con Kafka.  
+> 🔗 [Repositorio](https://github.com/gabeust/forohub)
 
-### 🍷 Microservicio para Bodega
-Sistema distribuido con microservicios para una tienda de vinos. Comunicación asíncrona con Kafka, WebSocket y gateway JWT.  
-> 🔗 [Repositorio](https://github.com/gabeust/CF-MS-Bodega)
 
 ---
 
@@ -54,15 +50,12 @@ Análisis concurrente de criptomonedas en Java. Uso intensivo de Streams, Execut
 ### 💱 SimpleSwap
 Smart contract en Solidity que replica Uniswap V2: swaps, liquidez, tokens ERC-20 y frontend tipo DEX.  
 > 🔗 [Repositorio](https://github.com/gabeust/eth-piku-simpleSwap)
-
 ---
 
-### 💬 ForoHub
-Aplicación fullstack para foros y comunidades. Backend Java con JWT, roles y notificaciones. SPA frontend sin frameworks, solo HTML/CSS/JS + Bootstrap.  
-> 🔗 [Repositorio](https://github.com/gabeust/forohub)
-
+### 🍷 Microservicio para Bodega
+Sistema distribuido con microservicios para una tienda de vinos. Comunicación asíncrona con Kafka, WebSocket y gateway JWT.  
+> 🔗 [Repositorio](https://github.com/gabeust/CF-MS-Bodega)
 ---
-
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://linkedin.com/in/gabriel-eustaquio-romero)
