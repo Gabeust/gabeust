@@ -5,13 +5,29 @@ Apasionado por construir soluciones robustas, seguras y escalables.
 
 ---
 
+## 🛠️ Tecnologías principales
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraalVM-512BD4?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-13457C?style=for-the-badge&logo=websocket&logoColor=white"/>
+</div>
+
+---
+
 ## 🧠 Sobre mí
 
 - 💻 Trabajo principalmente con **Java** y el ecosistema **Spring Boot**.
 - 🔐 Me especializo en APIs RESTful seguras con **JWT**, **OAuth 2.0** y **Spring Security**.
 - 🧱 Experiencia con arquitecturas **basadas en microservicios**, usando Kafka, WebSocket y Redis.
-- ☁️ Automatizo y despliego con **Docker**, **Maven**.
-- 🔬 Me interesa la **programación concurrente**, análisis de rendimiento y soluciones event-driven.
+- ☁️ Automatizo y despliego con **Docker** y **Maven**.
+- 🔬 Me interesa la **programación concurrente**, el rendimiento y el diseño event-driven.
 
 ---
 
@@ -24,35 +40,26 @@ Backend seguro con autenticación moderna, JWT, roles, OAuth 2.0 y persistencia 
 ---
 
 ### 🍷 Microservicio para Bodega
-Sistema completo distribuido con microservicios para una tienda de vinos online. Comunicación asíncrona con Kafka, WebSocket y gateway JWT.
+Sistema distribuido con microservicios para una tienda de vinos. Comunicación asíncrona con Kafka, WebSocket y gateway JWT.  
 > 🔗 [Repositorio](https://github.com/gabeust/CF-MS-Bodega)
 
 ---
 
 ### 🧮 CryptoConcurrency
-Análisis de criptomonedas concurrente con Java. Uso de Streams, ExecutorService, y compilación a binario con **GraalVM**.  
+Análisis concurrente de criptomonedas en Java. Uso intensivo de Streams, ExecutorService y GraalVM.  
 > 🔗 [Repositorio](https://github.com/gabeust/CryptoConcurrency)
 
 ---
 
-### 💱 SimpleSwap 
-Smart contract en Solidity que replica funcionalidades de Uniswap V2: swaps, liquidez y tokens personalizados.  
+### 💱 SimpleSwap
+Smart contract en Solidity que replica Uniswap V2: swaps, liquidez, tokens ERC-20 y frontend tipo DEX.  
 > 🔗 [Repositorio](https://github.com/gabeust/eth-piku-simpleSwap)
 
 ---
 
-## 🛠️ Tecnologías principales
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
+### 💬 ForoHub
+Aplicación fullstack para foros y comunidades. Backend Java con JWT, roles y notificaciones. SPA frontend sin frameworks, solo HTML/CSS/JS + Bootstrap.  
+> 🔗 [Repositorio](https://github.com/gabeust/forohub)
 
 ---
 
@@ -60,9 +67,9 @@ Smart contract en Solidity que replica funcionalidades de Uniswap V2: swaps, liq
 
 - 💼 [LinkedIn](https://linkedin.com/in/gabriel-eustaquio-romero)
 - 📨 [Email](mailto:gabriel.eust.romero@outlook.com)
-- 🌐 [Portafolio]() 
+- 🌐 [Portafolio]() <!-- Poné tu URL cuando esté lista -->
 
 ---
 
 Gracias por visitar mi perfil 🙌  
-¡Estoy abierto a nuevas oportunidades y colaboraciones!
+**¡Estoy abierto a nuevas oportunidades y colaboraciones!**
