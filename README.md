@@ -36,7 +36,7 @@ Apasionado por construir soluciones robustas, seguras y escalables.
 
 ### 💬 ForoHub
 Aplicación  para foros y comunidades. Backend Java con JWT, roles, OAuth, notificaciones con Kafka.  
-> 🔗 [Repositorio](https://github.com/gabeust/forohub)
+> 🔗 [Repositorio](https://github.com/gabeust/forohub-one)
 
 
 ---
