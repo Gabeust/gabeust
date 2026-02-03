@@ -33,11 +33,16 @@ Apasionado por construir soluciones robustas, seguras y escalables.
 
 ## 🚀 Proyectos Destacados
 
+### ✈️ FlightOnTime
+Proyecto desarrollado en el marco del Hackatón ONE – No Country 2025.
+FlightOnTime es una solución predictiva que estima la probabilidad de que un vuelo despegue puntual o con retraso, a partir de datos históricos y características del vuelo.
+> 🔗 [Repositorio](https://github.com/gabeust/flightOnTime)
+ 
+---
 
 ### 💬 ForoHub
 Aplicación  para foros y comunidades. Backend Java con JWT, roles, OAuth, notificaciones con Kafka.  
 > 🔗 [Repositorio](https://github.com/gabeust/forohub-one)
-
 
 ---
 
