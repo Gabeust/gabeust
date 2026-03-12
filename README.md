@@ -33,6 +33,17 @@ Apasionado por construir soluciones robustas, seguras y escalables.
 
 ## 🚀 Proyectos Destacados
 
+
+### 🏭 Ordinex — SaaS de Gestión de Órdenes de Servicio
+Plataforma multi-tenant para talleres y empresas de servicio técnico, construida con **20 años de experiencia en el rubro**.  
+Arquitectura single-DB con aislamiento por empresa, JWT con claims personalizados, Redis para invalidación de sesiones, generación de PDFs y despliegue en **Oracle Cloud Infrastructure**.
+
+> 🔗 [Demo en vivo](https://ordinex-app.gabeust.net.ar) — Usuario: `DEMO` | Contraseña: `demo1234`  
+
+**Stack:** Java · Spring Boot 3 · Spring Security · Redis · MySQL 8 · Docker · OCI · React · Vite · TypeScript
+
+---
+
 ### ✈️ FlightOnTime
 Proyecto desarrollado en el marco del Hackatón ONE – No Country 2025.
 FlightOnTime es una solución predictiva que estima la probabilidad de que un vuelo despegue puntual o con retraso, a partir de datos históricos y características del vuelo.
@@ -65,7 +76,7 @@ Sistema distribuido con microservicios para una tienda de vinos. Comunicación a
 
 - 💼 [LinkedIn](https://linkedin.com/in/gabriel-eustaquio-romero)
 - 📨 [Email](mailto:gabriel.eust.romero@outlook.com)
-- 🌐 [Portafolio]() <!-- Poné tu URL cuando esté lista -->
+- 🌐 [Portafolio](https://www.gabeust.net.ar/) 
 
 ---
 
